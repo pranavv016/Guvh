@@ -1,0 +1,53 @@
+{
+  "Haryana": {
+    "Gurugram": {
+      "note": "Illustrative prototype defaults; replace with verified official district/soil-card data before production.",
+      "pH": 7.2,
+      "EC": 0.8,
+      "organic_carbon": 0.52,
+      "nitrogen": 280,
+      "phosphorus": 18,
+      "potassium": 210
+    },
+    "Hisar": {
+      "note": "Illustrative prototype defaults; replace with verified official district/soil-card data before production.",
+      "pH": 7.8,
+      "EC": 1.1,
+      "organic_carbon": 0.42,
+      "nitrogen": 240,
+      "phosphorus": 15,
+      "potassium": 190
+    },
+    "Karnal": {
+      "note": "Illustrative prototype defaults; replace with verified official district/soil-card data before production.",
+      "pH": 7.4,
+      "EC": 0.7,
+      "organic_carbon": 0.58,
+      "nitrogen": 300,
+      "phosphorus": 20,
+      "potassium": 225
+    }
+  },
+  "Punjab": {
+    "Ludhiana": {
+      "note": "Illustrative prototype defaults; replace with verified official district/soil-card data before production.",
+      "pH": 7.5,
+      "EC": 0.8,
+      "organic_carbon": 0.55,
+      "nitrogen": 295,
+      "phosphorus": 19,
+      "potassium": 220
+    }
+  },
+  "Uttar Pradesh": {
+    "Lucknow": {
+      "note": "Illustrative prototype defaults; replace with verified official district/soil-card data before production.",
+      "pH": 7.6,
+      "EC": 0.9,
+      "organic_carbon": 0.48,
+      "nitrogen": 260,
+      "phosphorus": 17,
+      "potassium": 205
+    }
+  }
+}
